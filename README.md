@@ -11,3 +11,5 @@ This queuing system ensures a single centralized queue number for all help desk 
 
 This approach aims to maintain an organized queuing process for individuals visiting the office and provides the flexibility to handle queue adjustments as needed.</p>
 
+UML Class Diagram:
+![Blank diagram](https://github.com/user-attachments/assets/ebf3e986-49d0-4e3b-84a7-2d41fe4eb029)
