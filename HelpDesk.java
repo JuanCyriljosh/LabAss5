@@ -24,9 +24,9 @@ public class HelpDesk {
         System.out.println("Assisting Customer: " + currentNumber + " at " + deskName);
     }
 
-    public synchronized void resetNumberCounter(int startFrom) {
+    public synchronized void resetNumberCounter(int num) {
 
-        currentNumber = startFrom;
+        currentNumber = num;
         System.out.println("Number Counter reset to: " + currentNumber);
     }
 }
